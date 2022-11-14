@@ -14,7 +14,7 @@ namespace Проект
             int a, b, c;//задаем вводимые переменные 
             double m,//среднее арифметические
                 ka, kb, kc;//разница между переменной и средним арифметическим
-            Console.Write("a = ");
+            Console.Write(" целое значение a = ");
             a = Convert.ToInt32(Console.ReadLine());//ввод переменной a
             Console.Write("b = ");
             b = Convert.ToInt32(Console.ReadLine());//ввод переменной b
