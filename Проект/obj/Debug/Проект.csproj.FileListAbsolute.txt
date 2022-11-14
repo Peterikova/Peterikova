@@ -1,0 +1,8 @@
+D:\Тестировщик\Основы тестирования ПО\GIT\Проект\bin\Debug\Проект.exe.config
+D:\Тестировщик\Основы тестирования ПО\GIT\Проект\bin\Debug\Проект.exe
+D:\Тестировщик\Основы тестирования ПО\GIT\Проект\bin\Debug\Проект.pdb
+D:\Тестировщик\Основы тестирования ПО\GIT\Проект\obj\Debug\Проект.csproj.AssemblyReference.cache
+D:\Тестировщик\Основы тестирования ПО\GIT\Проект\obj\Debug\Проект.csproj.SuggestedBindingRedirects.cache
+D:\Тестировщик\Основы тестирования ПО\GIT\Проект\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+D:\Тестировщик\Основы тестирования ПО\GIT\Проект\obj\Debug\Проект.exe
+D:\Тестировщик\Основы тестирования ПО\GIT\Проект\obj\Debug\Проект.pdb
