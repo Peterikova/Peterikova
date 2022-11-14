@@ -16,7 +16,7 @@ namespace Проект
                 ka, kb, kc;//разница между переменной и средним арифметическим
             Console.Write(" целое значение a = ");
             a = Convert.ToInt32(Console.ReadLine());//ввод переменной a
-            Console.Write("b = ");
+            Console.Write("целое значение b = ");
             b = Convert.ToInt32(Console.ReadLine());//ввод переменной b
             Console.Write("c = ");
             c = Convert.ToInt32(Console.ReadLine());//ввод переменной c
