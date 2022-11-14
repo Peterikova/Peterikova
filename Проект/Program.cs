@@ -11,6 +11,7 @@ namespace Проект
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Привет из Дикого запада");
             int a, b, c;//задаем вводимые переменные 
             double m,//среднее арифметические
                 ka, kb, kc;//разница между переменной и средним арифметическим
